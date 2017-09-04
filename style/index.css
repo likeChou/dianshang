@@ -348,7 +348,7 @@ margin:0 auto;
 {
 	text-align: center;
 	width:200px;
-	height:300px;
+	height:280px;
 }
 .bigimg{
 	display: table;
@@ -377,11 +377,11 @@ margin:0 auto;
 	font-size:12px;
 	text-align: center;
 }
-.shopconetent
+.shopcontent
 {
 	
 	width:200px;
-	height:100px;
+	height:120px;
 }
 .smimg img
 {
@@ -393,7 +393,7 @@ margin:0 auto;
 }
 
 .smimg{
-	height: 100px;
+	height: 120px;
 	width:100px;
 	display: table;
 	text-align: center;
@@ -401,14 +401,11 @@ margin:0 auto;
 .shoptext
 {
 	width:100px;
-	height: 100px;
+	height: 120px;
 	text-align:center;
-	display: table-cell;
-	vertical-align:middle;
-
 }
 .shoptext p{
-padding-top:25px;
+padding-top:30px;
 }
 .foot
 {
