@@ -63,7 +63,7 @@ margin:0 auto;
 	padding-left: 41px;padding-top: 13px;
 }
 .searchbox{
-	padding-top:20px;
+	padding-top:23px;
 	padding-left:200px;
 	height:35px;
 	width:429px;
@@ -338,8 +338,10 @@ margin:0 auto;
 }
 .rightshoppho
 {
-	width:810px;
-	border-bottom:3px,solid yellow;
+	width:804px;
+	border-bottom: 3px solid #ff7201;
+	height:396px;
+	overflow:hidden;
 }
 
 .shoppcontent
@@ -394,6 +396,7 @@ margin:0 auto;
 	height: 100px;
 	width:100px;
 	display: table;
+	text-align: center;
 }
 .shoptext
 {
@@ -406,4 +409,31 @@ margin:0 auto;
 }
 .shoptext p{
 padding-top:25px;
+}
+.foot
+{
+	background-color:grey;
+	margin-top:50px;
+	text-align: center;
+	padding:30px;
+
+}
+.foot .footbox
+{
+}
+.foot a 
+{
+	color: #000;
+}
+.foot a:hover{
+	color: #f20;
+}
+.foot p
+{
+	color: #000;
+	margin:10px;
+}
+.foot img
+{
+	margin:20px;
 }
