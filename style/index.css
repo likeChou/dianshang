@@ -409,7 +409,7 @@ padding-top::;
 }
 .foot
 {
-	background-color:grey;
+	background-color:#d4d4d4;
 	margin-top:10px;
 	text-align: center;
 	padding:30px;
@@ -540,4 +540,47 @@ padding-top::;
 	position: absolute;
 	right:40px;
 	bottom:0;
+}
+.registerWidth
+{
+	width:630px;
+	margin:0 auto;
+}
+.registerBox
+{
+	position: relative;
+	width:630px;
+	margin:10px auto 30px;
+	border:1px solid #ccc;
+	padding-bottom:30px;
+	padding:0px 15px;
+}
+
+.register_input
+{
+	width:315px;
+	height: 35px;
+	display: inline-block;
+	float:left;
+}
+.registerItem
+{
+	width:130px;
+	font:14px/34px "宋体";
+	text-align:right;
+	float:left;
+}
+.registerItem i
+{
+	font-style:normal;
+	margin-right:5px;
+	color: red;
+}
+.registerBox li
+{
+	height:70px;
+}
+.registerBox .autolink
+{
+	height:40px;
 }
